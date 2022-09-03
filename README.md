@@ -10,7 +10,7 @@ link https://i.imgur.com/ttNAFBs.jpg
 
 ## 3. --action add
 
-link link https://i.imgur.com/iAJMUed.jpg
+link https://i.imgur.com/iAJMUed.jpg
 
 ## 4. --action remove
 
