@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-js-hw-01-cli-programm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProkoptsovD/goit-node-js-hw-01-cli-programm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProkoptsovD/goit-node-js-hw-01-cli-programm/issues"
+  },
+  "homepage": "https://github.com/ProkoptsovD/goit-node-js-hw-01-cli-programm#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
